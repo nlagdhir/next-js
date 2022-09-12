@@ -5,7 +5,7 @@ import styles from './layout.module.css';
 import Link from 'next/link';
 
 const name = 'Nilesh Lagdhir';
-export const siteTitle = 'Next.js Sample website';
+export const siteTitle = 'Nilesh Lagdhir JavaScript Developer';
 const Layout = ({ children, home }) => {
     return (
         <>
