@@ -12,10 +12,14 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
+        <p> Are you looking for a freelancer with good hands with beautiful web design and google friendly website developer?</p>
+
+<p>You’ve found your guy!I’ve been working in web page design, web development for the past 6 years.I’m experienced in working with web projects of all sizes across multiple platforms. </p>
+
+<p>I have worked with WordPress, WooCommerce, Php, Laravel, Web Design, Magento, Responsive Web Design </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          This is a sample website using Next JS, you can read more about me {' '}
+          <a target='_blank' href="https://nlagdhir.in">here</a>.)
         </p>
       </section>
 
